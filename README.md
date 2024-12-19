@@ -9,8 +9,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/grackerai?style=social)](https://twitter.com/grackerai)
 
 <div align="center">
-  <img src="assets/cyber-pulse-logo.png" alt="Cyber Pulse Logo" width="200"/>
-  <br/>
   <em>Your Daily Dose of Cybersecurity Intelligence</em>
 </div>
 
@@ -195,7 +193,6 @@ Special thanks to all contributors who help maintain and improve this repository
 ## 📱 Connect With Us
 - [Twitter](https://twitter.com/grackerai)
 - [LinkedIn](https://linkedin.com/company/grackerai)
-- [Discord Community](https://discord.gg/grackerai)
 
 ## 💝 Sponsors
 <a href="https://github.com/sponsors/grackerai">
