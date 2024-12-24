@@ -12,14 +12,12 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         folder-path: '.'
-        max-depth: -1
+        config-file: '.github/markdown-link-check-config.json'
         check-modified-files-only: 'no'
         base-branch: 'main'
-        file-path: './README.md, ./categories/*.md'
-        config-file: '.github/workflows/mlc_config.json'
