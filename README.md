@@ -192,7 +192,7 @@ Special thanks to all contributors who help maintain and improve this repository
 
 ## 📱 Connect With Us
 - [Twitter](https://twitter.com/grackerai)
-- [LinkedIn](https://linkedin.com/company/grackerai)
+- [LinkedIn](https://linkedin.com/company/gracker-ai)
 
 ## 💝 Sponsors
 <a href="https://github.com/sponsors/grackerai">
