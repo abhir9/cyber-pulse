@@ -13,7 +13,7 @@ Please delete options that are not relevant.
 - [ ] Other (please describe)
 
 ## Checklist
-- [ ] I have read the [CONTRIBUTING](../CONTRIBUTING.md) document
+- [ ] I have read the CONTRIBUTING section in the [README](../README.md)
 - [ ] My code follows the style guidelines of this project
 - [ ] I have checked that the URL is active and accessible
 - [ ] I have filled all required fields in the source table
