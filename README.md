@@ -13,7 +13,7 @@
 </div>
 
 > 🔐 A curated collection of cybersecurity resources, news sources, and intelligence platforms. Stay informed about the latest developments in cybersecurity, threat intelligence, and industry best practices.
-
+<!-- 
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
@@ -21,7 +21,7 @@
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#support">Support</a>
-</p>
+</p> -->
 
 ## 🎯 Overview
 
@@ -48,7 +48,7 @@ Perfect for:
 - [Community & Events](#community--events)
 - [How to Use](#-how-to-use-this-repository)
 - [Contributing](#-contributing)
-- [License](#-license)
+- [License](/LICENSE)
 
 ## News & Information
 
@@ -148,7 +148,7 @@ We value your contributions! Here's how you can help:
 2. Create a feature branch (`git checkout -b feature/NewSource`)
 3. Commit your changes (`git commit -am 'Add new source: SourceName'`)
 4. Push to the branch (`git push origin feature/NewSource`)
-5. Create a Pull Request
+5. Create a Pull Request, check [Pull Request Template](.github/pull_request_template.md).
 
 ### Contribution Guidelines
 
@@ -159,17 +159,11 @@ When adding a new source, ensure:
 4. ✅ Description is clear and concise
 5. ✅ Category and sub-category are appropriate
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=grackerai/cyber-pulse&type=Date)](https://star-history.com/#grackerai/cyber-pulse&Date)
 
-## 🙏 Acknowledgments
-
-Special thanks to all contributors who help maintain and improve this repository!
 
 ## 📊 Repository Stats
 
@@ -194,6 +188,18 @@ Special thanks to all contributors who help maintain and improve this repository
 - [Twitter](https://twitter.com/grackerai)
 - [LinkedIn](https://www.linkedin.com/company/gracker-ai)
 
+
+## 🔍 SEO Tags
+```
+<meta name="keywords" content="cybersecurity, security news, threat intelligence, security resources, cybersecurity training, security research, security compliance, security events, infosec, cyber threat intelligence, security tools, security education, security awareness, penetration testing, vulnerability assessment, security certifications, security conferences">
+
+<meta name="description" content="Cyber Pulse is your comprehensive hub for cybersecurity intelligence, offering real-time security news, threat intelligence resources, professional training materials, research publications, and industry standards.">
+```
+<meta name="keywords" content="cybersecurity, security news, threat intelligence, security resources, cybersecurity training, security research, security compliance, security events, infosec, cyber threat intelligence, security tools, security education, security awareness, penetration testing, vulnerability assessment, security certifications, security conferences">
+
+<meta name="description" content="Cyber Pulse is your comprehensive hub for cybersecurity intelligence, offering real-time security news, threat intelligence resources, professional training materials, research publications, and industry standards.">
+
+
 ## 💝 Sponsors
 <a href="https://github.com/sponsors/grackerai">
   <img src="https://img.shields.io/badge/Sponsor-Cyber%20Pulse-pink?logo=github-sponsors" alt="Sponsor Cyber Pulse"/>
@@ -201,10 +207,9 @@ Special thanks to all contributors who help maintain and improve this repository
 
 Special thanks to our sponsors who help keep this project active!
 
-## 🔍 SEO Tags
-<meta name="keywords" content="cybersecurity, security news, threat intelligence, security resources, cybersecurity training, security research, security compliance, security events, infosec, cyber threat intelligence, security tools, security education, security awareness, penetration testing, vulnerability assessment, security certifications, security conferences">
+## 🙏 Acknowledgments
 
-<meta name="description" content="Cyber Pulse is your comprehensive hub for cybersecurity intelligence, offering real-time security news, threat intelligence resources, professional training materials, research publications, and industry standards.">
+Special thanks to all contributors who help maintain and improve this repository!
 
 ---
 <div align="center">
