@@ -1,7 +1,7 @@
 # Cyber Pulse 🛡️
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-blue.svg)](https://github.com/grackerai/cyber-pulse)
 [![Links Check](https://github.com/grackerai/cyber-pulse/actions/workflows/link_checker.yml/badge.svg)](https://github.com/grackerai/cyber-pulse/actions/workflows/link_checker.yml)
@@ -48,7 +48,7 @@ Perfect for:
 - [Community & Events](#community--events)
 - [How to Use](#-how-to-use-this-repository)
 - [Contributing](#-contributing)
-- [License](/LICENSE)
+- [License](LICENSE)
 
 ## News & Information
 
